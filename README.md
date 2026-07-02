@@ -178,7 +178,7 @@ Through this project, I gained hands-on experience in:
 
 # 🤝 Connect With Me
 
-**LinkedIn:** www.linkedin.com/in/sanika-auti
+**LinkedIn:** www.linkedin.com/in/sanikaauti736
 
 **GitHub:** https://github.com/sanikaautidata
 
